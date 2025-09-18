@@ -3,9 +3,7 @@
 
 ---
 
-An aspiring Full-Stack Developer and third-year BSIT student with experience building robust and scalable web applications.
-Currently focusing on mastering ASP.NET Core Clean Architecture for the backend and creating dynamic user interfaces with React.
-Skilled in automating workflows and streamlining deployment processes through CI/CD pipelines using GitHub Actions and GitLab CI.
+An aspiring Full-Stack Developer and third-year BSIT student with experience building robust and scalable web applications. Currently focusing on mastering ASP.NET Core Clean Architecture for backend development and creating dynamic, responsive user interfaces with React.
 
 ---
 
