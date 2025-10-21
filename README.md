@@ -1,5 +1,5 @@
 # Hi, I'm Charles Justine Mantes 👋
-### Full-Stack Developer | BSIT Student
+### Full-Stack Web Developer
 
 ---
 
