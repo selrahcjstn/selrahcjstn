@@ -10,13 +10,13 @@ Hello! I'm an IT student focused on engineering high-quality, scalable web appli
 I specialize in bridging dynamic interfaces with robust backend systems. Here is what I use to get the job done:
 
 **Frontend**
-> `React` | `TypeScript` | `JavaScript` | `Tailwind CSS` | `Bootstrap` | `shadcn/ui` | `razor view` 
+> `React` | `TypeScript` | `JavaScript` | `Tailwind CSS` | `Bootstrap` | `shadcn/ui` | `Razor View` 
 
 **Backend & APIs**
 > `ASP.NET Core` | `Node.js` | `Express.js`
 
 **Databases**
-> `Microsoft SQL Server` | `MySQL` | `MongoDB`
+> `Microsoft SQL Server` | `MySQL` | `MongoDB` | `PostgreSQL` 
 
 ---
 
