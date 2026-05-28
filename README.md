@@ -1,27 +1,47 @@
-# 👨‍💻 Charles Justine Mantes
+# Charles Justine Mantes
 **Full-Stack Web Developer • 3rd-Year BSIT Student @ Bulacan State University**
 
 ---
 
-### 🚀 About Me
-Hello! I'm an IT student focused on building high-quality, scalable web applications from the ground up. My current goal is simple: to build meaningful and reliable software that solves real-world problems and delivers a seamless user experience.
+### Professional Summary
+Driven IT student and Full-Stack Developer focused on building high-quality, scalable web and mobile applications from the ground up. Experienced in bridging dynamic client-side interfaces with robust, microservices-ready backend systems. Dedicated to designing meaningful, reliable software that integrates intelligent automation to solve real-world business challenges and deliver seamless user experiences.
 
-### ⚙️ Core Technologies
-I specialize in bridging dynamic interfaces with robust backend systems. Here are the technologies I use:
+### Core Technologies & Stack
 
-**Frontend**
-> `React` | `TypeScript` | `JavaScript` | `Tailwind CSS` | `Bootstrap` | `shadcn/ui` | `Razor View`
+**Frontend & Mobile**
+<p align="left">
+  <img src="https://scrimba.github.io/tech-badges/badges/react.svg" height="28" alt="React" />
+  <img src="https://scrimba.github.io/tech-badges/badges/vue.svg" height="28" alt="Vue" />
+  <img src="https://scrimba.github.io/tech-badges/badges/typescript.svg" height="28" alt="TypeScript" />
+  <img src="https://scrimba.github.io/tech-badges/badges/javascript.svg" height="28" alt="JavaScript" />
+  <img src="https://scrimba.github.io/tech-badges/badges/tailwindcss.svg" height="28" alt="Tailwind CSS" />
+  <img src="https://scrimba.github.io/tech-badges/badges/bootstrap.svg" height="28" alt="Bootstrap" />
+</p>
 
-**Backend & APIs**
-> `ASP.NET Core` | `Node.js` | `Express.js`
+**Backend & Architecture**
+<p align="left">
+  <img src="https://scrimba.github.io/tech-badges/badges/dotnet.svg" height="28" alt="C# .NET" />
+  <img src="https://scrimba.github.io/tech-badges/badges/nodejs.svg" height="28" alt="Node.js" />
+  <img src="https://scrimba.github.io/tech-badges/badges/express.svg" height="28" alt="Express" />
+</p>
 
 **Databases**
-> `Microsoft SQL Server` | `MySQL` | `MongoDB` | `PostgreSQL`
+<p align="left">
+  <img src="https://scrimba.github.io/tech-badges/badges/postgresql.svg" height="28" alt="PostgreSQL" />
+  <img src="https://scrimba.github.io/tech-badges/badges/mysql.svg" height="28" alt="MySQL" />
+  <img src="https://scrimba.github.io/tech-badges/badges/mongodb.svg" height="28" alt="MongoDB" />
+</p>
 
 ---
 
-### 🎯 Quick Snapshot
-- 💻 **Main Focus:** Full-Stack Development (React + ASP.NET Core)
-- 🎓 **Program:** Bachelor of Science in Information Technology
-- 🏫 **Institution:** Bulacan State University
-- 📫 **Contact:** charlesjustinemantes.main@gmail.com
+### AI & Development Workflow
+Modern AI paradigms are leveraged both as application features and productivity accelerators:
+* **Building with AI:** Engineering intelligent software capabilities, including the integration of Large Language Models (LLMs) via APIs for automated decision support, smart sorting systems, and predictive workflows.
+* **AI-Assisted Development:** Utilizing advanced AI tools to accelerate code generation, optimize debugging processes, write comprehensive unit tests, and maintain strict standards of code quality.
+
+### Academic & Contact Overview
+* **Main Focus:** Full-Stack Web & Mobile Development (React / Vue + ASP.NET Core)
+* **Special Interests:** Microservices Architecture & AI Ecosystem Integration
+* **Program:** Bachelor of Science in Information Technology
+* **Institution:** Bulacan State University
+* **Contact:** charlesjustinemantes.main@gmail.com
